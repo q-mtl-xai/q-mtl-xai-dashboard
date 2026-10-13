@@ -1,0 +1,15 @@
+======================================================================
+DASHBOARD STREAMLIT — RESUMEN FINAL
+======================================================================
+
+Fecha: 2026-10-13 01:17:51
+
+Backend URL: https://q-mtl-xai-backend.onrender.com
+
+Archivos:
+  .gitignore
+  README.md
+  app.py
+  assets
+  dashboard_summary.txt
+  requirements.txt

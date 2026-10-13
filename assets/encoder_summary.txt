@@ -1,0 +1,25 @@
+======================================================================
+ENCODER UNIFICADO — RESUMEN FINAL
+======================================================================
+
+Fecha: 2026-10-13 18:20:15
+
+Parámetros: 725,932
+Epochs entrenadas: 18/30
+Mejor F1 avg: 0.9349
+
+Head 1 (latido, 4 clases):
+  accuracy: 0.9834
+  f1_macro: 0.9785
+  f1_weighted: 0.9834
+
+Head 2 (ventana, 4 clases):
+  accuracy: 0.9696
+  f1_macro: 0.9635
+  f1_weighted: 0.9698
+
+Head 3 (isquemia, 2 clases):
+  accuracy: 0.8493
+  f1_macro: 0.8490
+  f1_weighted: 0.8490
+

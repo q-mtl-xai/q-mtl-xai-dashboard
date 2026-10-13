@@ -1,0 +1,30 @@
+======================================================================
+SQI TRAINING — RESUMEN FINAL
+======================================================================
+
+Fecha: 2026-10-13 18:09:08
+
+Features usadas:
+  - var
+  - entropy
+  - snr
+  - amplitude
+  - zero_crossings
+  - energy
+  - kurtosis
+  - skewness
+
+SQI PPG (WF-PPG):
+  accuracy: 0.5575
+  f1_macro: 0.5027
+  f1_weighted: 0.5415
+  Clases: [np.str_('Fair'), np.str_('Good'), np.str_('Poor')]
+  Modelo: /content/drive/MyDrive/q-mtl-xai/models/c3_sqi_ppg.pkl
+
+SQI ECG (NSTDB + MIT-BIH):
+  accuracy: 0.9615
+  f1_macro: 0.9215
+  f1_weighted: 0.9612
+  Clases: [np.str_('Fair'), np.str_('Good'), np.str_('Poor')]
+  Modelo: /content/drive/MyDrive/q-mtl-xai/models/c3_sqi_ecg.pkl
+

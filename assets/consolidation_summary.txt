@@ -1,0 +1,29 @@
+======================================================================
+CONSOLIDACIÓN — RESUMEN FINAL
+======================================================================
+
+Fecha: 2026-10-12 17:54:20
+
+Archivos consolidados:
+
+mitdb_consolidated.npz
+  Muestras: 10000
+  Tamaño: 25.5 MB
+  Clases: {np.str_('PVC'): np.int64(1863), np.str_('SPB'): np.int64(746), np.str_('fusion'): np.int64(103), np.str_('normal'): np.int64(5721), np.str_('paced'): np.int64(1549), np.str_('unclassifiable'): np.int64(18)}
+
+nstdb_consolidated.npz
+  Muestras: 5400
+  Tamaño: 42.3 MB
+  Clases: {np.str_('noise_bw'): np.int64(360), np.str_('noise_em'): np.int64(360), np.str_('noise_ma'): np.int64(360), np.str_('noisy_em'): np.int64(4320)}
+
+ptbxl_consolidated.npz
+  Muestras: 5000
+  Tamaño: 496.5 MB
+  Clases: {np.str_('ischemia'): np.int64(2500), np.str_('normal'): np.int64(2500)}
+
+wfppg_consolidated.npz
+  Muestras: 7039
+  Tamaño: 109.7 MB
+  Clases: {np.str_('1'): np.int64(2074), np.str_('1L'): np.int64(1400), np.str_('2E'): np.int64(1363), np.str_('2L'): np.int64(444), np.str_('3'): np.int64(1758)}
+
+Total: 27439 muestras | 674.0 MB
